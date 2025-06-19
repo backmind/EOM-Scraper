@@ -1,6 +1,6 @@
 # EOM Scraper
 
-Scraper automático para extraer artículos de El Orden Mundial y enviarlos a [Reader de Readwise](https://readwise.io/read) via email, de modo que permita la integración con el sistema de feed/intake de información con mucha menos fricción y en un lugar centralizado.
+Scraper automático para extraer artículos de [El Orden Mundial](http://elordenmundial.com/) y enviarlos a [Reader de Readwise](https://readwise.io/read) via email, de modo que permita la integración con el sistema de feed/intake de información con mucha menos fricción y en un lugar centralizado.
 
 ## Características
 
